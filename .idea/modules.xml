@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exerc-cios-arrays-JAndersonArruda.iml" filepath="$PROJECT_DIR$/.idea/exerc-cios-arrays-JAndersonArruda.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Fibonacci/src.iml" filepath="$PROJECT_DIR$/Fibonacci/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notas/notas.iml" filepath="$PROJECT_DIR$/notas/notas.iml" />
     </modules>
   </component>
 </project>
